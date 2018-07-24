@@ -36,7 +36,7 @@
 								<li><a href="https://www.facebook.com/gabriel.metzger" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 								<li><a href="https://fr.linkedin.com/pub/gabriel-metzger/80/875/a98/fr" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li>
 								<li><a href="https://github.com/Gab-Metzger" class="icon fa-github"><span class="label">Github</span></a></li>
-								<li><a href="mailto:gab.metzger@gmail.com" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+								<li><a href="mailto:contact@gmetzger.fr" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
 							</ul>
 						</nav>
 					</header>
